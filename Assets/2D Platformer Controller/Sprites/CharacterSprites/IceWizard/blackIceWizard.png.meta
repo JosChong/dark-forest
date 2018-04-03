@@ -1,0 +1,1306 @@
+fileFormatVersion: 2
+guid: 63c431e850fbcfd4f8e2b7af50597a62
+timeCreated: 1518752435
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blackIceWizard_0
+    21300002: blackIceWizard_1
+    21300004: blackIceWizard_2
+    21300006: blackIceWizard_3
+    21300008: blackIceWizard_4
+    21300010: blackIceWizard_5
+    21300012: blackIceWizard_6
+    21300014: blackIceWizard_7
+    21300016: blackIceWizard_8
+    21300018: blackIceWizard_9
+    21300020: blackIceWizard_10
+    21300022: blackIceWizard_11
+    21300024: blackIceWizard_12
+    21300026: blackIceWizard_13
+    21300028: blackIceWizard_14
+    21300030: blackIceWizard_15
+    21300032: blackIceWizard_16
+    21300034: blackIceWizard_17
+    21300036: blackIceWizard_18
+    21300038: blackIceWizard_19
+    21300040: blackIceWizard_20
+    21300042: blackIceWizard_21
+    21300044: blackIceWizard_22
+    21300046: blackIceWizard_23
+    21300048: blackIceWizard_24
+    21300050: blackIceWizard_25
+    21300052: blackIceWizard_26
+    21300054: blackIceWizard_27
+    21300056: blackIceWizard_28
+    21300058: blackIceWizard_29
+    21300060: blackIceWizard_30
+    21300062: blackIceWizard_31
+    21300064: blackIceWizard_32
+    21300066: blackIceWizard_33
+    21300068: blackIceWizard_34
+    21300070: blackIceWizard_35
+    21300072: blackIceWizard_36
+    21300074: blackIceWizard_37
+    21300076: blackIceWizard_38
+    21300078: blackIceWizard_39
+    21300080: blackIceWizard_40
+    21300082: blackIceWizard_41
+    21300084: blackIceWizard_42
+    21300086: blackIceWizard_43
+    21300088: blackIceWizard_44
+    21300090: blackIceWizard_45
+    21300092: blackIceWizard_46
+    21300094: blackIceWizard_47
+    21300096: blackIceWizard_48
+    21300098: blackIceWizard_49
+    21300100: blackIceWizard_50
+    21300102: blackIceWizard_51
+    21300104: blackIceWizard_52
+    21300106: blackIceWizard_53
+    21300108: blackIceWizard_54
+    21300110: blackIceWizard_55
+    21300112: blackIceWizard_56
+    21300114: blackIceWizard_57
+    21300116: blackIceWizard_58
+    21300118: blackIceWizard_59
+    21300120: blackIceWizard_60
+    21300122: blackIceWizard_61
+    21300124: blackIceWizard_62
+    21300126: blackIceWizard_63
+    21300128: blackIceWizard_64
+    21300130: blackIceWizard_65
+    21300132: blackIceWizard_66
+    21300134: blackIceWizard_67
+    21300136: blackIceWizard_68
+    21300138: blackIceWizard_69
+    21300140: blackIceWizard_70
+    21300142: blackIceWizard_71
+    21300144: blackIceWizard_72
+    21300146: blackIceWizard_73
+    21300148: blackIceWizard_74
+    21300150: blackIceWizard_75
+    21300152: blackIceWizard_76
+    21300154: blackIceWizard_77
+    21300156: blackIceWizard_78
+    21300158: blackIceWizard_28_1
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blackIceWizard_0
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2721
+        width: 209
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2723
+        width: 210
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2726
+        width: 206
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_3
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 2729
+        width: 206
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_4
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 2731
+        width: 207
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_5
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 2731
+        width: 207
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_6
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2729
+        width: 205
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_7
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 2726
+        width: 209
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_8
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 2723
+        width: 210
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_9
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 2721
+        width: 211
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2406
+        width: 215
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_11
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 2406
+        width: 217
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_12
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 2406
+        width: 219
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_13
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2406
+        width: 220
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_14
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 2406
+        width: 221
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_15
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 2406
+        width: 220
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_16
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 2406
+        width: 221
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_17
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2406
+        width: 219
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_18
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 2406
+        width: 217
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_19
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 2406
+        width: 215
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_20
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2041
+        width: 209
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_21
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2056
+        width: 206
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_22
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 2056
+        width: 165
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_23
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2056
+        width: 171
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_24
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2056
+        width: 206
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_25
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 2056
+        width: 203
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_26
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 2056
+        width: 170
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_27
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 2056
+        width: 169
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_28
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 2050
+        width: 201
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_29
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1694
+        width: 218
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_30
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1694
+        width: 215
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_31
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1698
+        width: 209
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_32
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1690
+        width: 210
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_33
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1685
+        width: 209
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_34
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1685
+        width: 209
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_35
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1690
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_36
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1698
+        width: 209
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_37
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1696
+        width: 214
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_38
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 1694
+        width: 218
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_39
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1338
+        width: 219
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_40
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1338
+        width: 217
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_41
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1337
+        width: 214
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_42
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1327
+        width: 212
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_43
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1319
+        width: 211
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_44
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1318
+        width: 210
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_45
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1327
+        width: 214
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_46
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1337
+        width: 214
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_47
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 1338
+        width: 217
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_48
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 1337
+        width: 219
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_49
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 869
+        width: 208
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_50
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 869
+        width: 212
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_51
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 873
+        width: 225
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_52
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 873
+        width: 228
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_53
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 899
+        width: 217
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_54
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 950
+        width: 212
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_55
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 954
+        width: 216
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_56
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 950
+        width: 212
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_57
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 898
+        width: 206
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_58
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 869
+        width: 208
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_59
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 549
+        width: 206
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_60
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 556
+        width: 214
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_61
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 556
+        width: 222
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_62
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 555
+        width: 218
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_63
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 555
+        width: 207
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_64
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 555
+        width: 210
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_65
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 555
+        width: 218
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_66
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 556
+        width: 223
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_67
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 556
+        width: 214
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_68
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 120
+        width: 675
+        height: 726
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_69
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 217
+        width: 215
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_70
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 215
+        width: 167
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_71
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 212
+        width: 181
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_72
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 213
+        width: 187
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_73
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 213
+        width: 194
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_74
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 217
+        width: 204
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_75
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 221
+        width: 225
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_76
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 199
+        width: 263
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_77
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 154
+        width: 308
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_78
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 960
+        width: 140
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blackIceWizard_28_1
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 2026
+        width: 250
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
